@@ -12,7 +12,7 @@ A modern workout library and tracking application built for keeping gym workouts
 ![Workout Library](./Screenshots/fitlog.PNG)
 
 ### 2. Workout Details
-![Workout Details](./screenshots/detailfit.PNG)
+![Workout Details](./Screenshots/detailfit.PNG)
 
 ### 3. Today's Plan
 ![Today's Plan](./Screenshots/myplan.PNG)
